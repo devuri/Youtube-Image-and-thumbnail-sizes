@@ -1,6 +1,7 @@
-# Youtube-Image-THUMBNAIL-URL-AND-SIZES
-Youtube Image THUMBNAIL URL AND SIZES
+# Youtube Image and thumbnail sizes
+Youtube Image from YouTube video URL
 
+Taken from: [How do I get a YouTube video thumbnail from the YouTube API? ](https://stackoverflow.com/Questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api)
 
 # Each YouTube video has 4 generated images. 
 They are predictably formatted as follows:
@@ -43,4 +44,4 @@ All of the above urls are available over http too.
 Additionally, the slightly shorter hostname i3.ytimg.com works in place of img.youtube.com in the example urls above.
 
 
- Alternatively, you can use the (YouTube Data API (v3))[https://developers.google.com/youtube/v3/] to get thumbnail images.
+ Alternatively, you can use the [YouTube Data API (v3)](https://developers.google.com/youtube/v3/) to get thumbnail images.
