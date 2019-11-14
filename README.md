@@ -15,9 +15,9 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/3.jpg
 
 The first one in the list is a full size image and others are thumbnail images. 
 The default thumbnail image (ie. one of 1.jpg, 2.jpg, 3.jpg) is:
-
-
+```
 https://img.youtube.com/vi/<insert-youtube-video-id-here>/default.jpg
+```
   
 For the high quality version of the thumbnail use a url similar to this:
 ```
