@@ -2,7 +2,8 @@
 Youtube Image THUMBNAIL URL AND SIZES
 
 
-# Each YouTube video has 4 generated images. They are predictably formatted as follows:
+# Each YouTube video has 4 generated images. 
+They are predictably formatted as follows:
 
 ```
 https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg 
