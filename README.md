@@ -42,6 +42,7 @@ https://img.youtube.com/vi/<insert-youtube-video-id-here>/maxresdefault.jpg
 ```
   
 All of the above urls are available over http too. 
+
 Additionally, the slightly shorter hostname i3.ytimg.com works in place of img.youtube.com in the example urls above.
 
 
