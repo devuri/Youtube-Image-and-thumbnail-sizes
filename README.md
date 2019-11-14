@@ -43,4 +43,4 @@ All of the above urls are available over http too.
 Additionally, the slightly shorter hostname i3.ytimg.com works in place of img.youtube.com in the example urls above.
 
 
-# Alternatively, you can use the YouTube Data API (v3) to get thumbnail images.
+ Alternatively, you can use the (YouTube Data API (v3))[https://developers.google.com/youtube/v3/] to get thumbnail images.
